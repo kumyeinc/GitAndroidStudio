@@ -15,5 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.i("MyTAG", "My other message");
 
+        Log.i("MyTAG", "My 4th commmit message is here");
+
     }
 }
